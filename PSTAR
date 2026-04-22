@@ -1,0 +1,39 @@
+# Day 1 – [22,04,2026]
+
+What I did today:
+- Watched CS50 Lecture 0
+- Learned what Python is on freeCodeCamp
+- Ran my very first Python code using online-python.com
+
+Code I wrote:
+print("hello world! my name is pstar, i am from warri.")
+print('Today is my day 1 of software engineering')
+print('This is my very first project and i aim to only go up from here')
+
+name="Pstar"
+age= 22
+dob= '16|11|2004'
+idols= 'Messi & Ronaldo'
+goal= 'To be the Greatest'
+dts=("Pstar",22,"SFTENG",5.0)
+my_range=range(4)
+
+print('Name:',name)
+
+print('Age:',age)
+
+print('DOB:',dob)
+
+print('IDOLS:',idols)
+
+print('GOALS:',goal)
+
+print('DETAILS:',dts)
+
+print('RANGE:',my_range)
+
+print(type(my_range))
+
+Feeling: Good👍
+
+Next: Continue Python lessons tomorrow.
